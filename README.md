@@ -13,6 +13,7 @@ cappuccino
 ### Operations:
 
 off: To stop the coffee machine
+
 report: To view the remaining resources and profit
 
 ### Ingredients Management: The machine checks for sufficient ingredients and deducts them as needed.
